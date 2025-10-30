@@ -7,7 +7,6 @@ import Work from "./Components/Work/Work";
 import Education from "./Components/Education/Education";
 import Contact from "./Components/Contact/Contact";
 import Footer from "./Components/Footer/Footer";
-import BlurEffect from "./blurEffect";
 const App = () => {
   return (
     <div className="bg-[#050414]">
